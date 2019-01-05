@@ -17,7 +17,7 @@ SCOPES = 'https://www.googleapis.com/auth/drive'
 
 def main():
     """
-    Download folder content from google dirve without zipping.
+    Clone shared folder to your drive.
     """
 
     # use Colorama to make Termcolor work on Windows too
