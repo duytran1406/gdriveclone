@@ -13,6 +13,16 @@ You need to enable the Drive API to use the script.
 The enabling instructions can be found on [Python Quickstart](https://developers.google.com/drive/api/v3/quickstart/python).<br/>
 The `credentials.json` file will be needed in the working directory.
 
+## Requirement
+
+▪️ Python 2
+▪️ apiclient
+▪️ colorama
+▪️ termcolor
+▪️ apiclient.http
+▪️ googleapiclient
+▪️ httplib2
+▪️ oauth2client
 ### Usage
 
 Just run download.py and follow instructions.
